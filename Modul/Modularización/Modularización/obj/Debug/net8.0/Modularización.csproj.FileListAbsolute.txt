@@ -1,0 +1,14 @@
+C:\Users\Tereta\Documents\Universidad\Programación I\Modul\Modularización\Modularización\obj\Debug\net8.0\Modularización.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tereta\Documents\Universidad\Programación I\Modul\Modularización\Modularización\obj\Debug\net8.0\Modularización.AssemblyInfoInputs.cache
+C:\Users\Tereta\Documents\Universidad\Programación I\Modul\Modularización\Modularización\obj\Debug\net8.0\Modularización.AssemblyInfo.cs
+C:\Users\Tereta\Documents\Universidad\Programación I\Modul\Modularización\Modularización\obj\Debug\net8.0\Modularización.csproj.CoreCompileInputs.cache
+C:\Users\Tereta\Documents\Universidad\Programación I\Modul\Modularización\Modularización\bin\Debug\net8.0\Modularización.exe
+C:\Users\Tereta\Documents\Universidad\Programación I\Modul\Modularización\Modularización\bin\Debug\net8.0\Modularización.deps.json
+C:\Users\Tereta\Documents\Universidad\Programación I\Modul\Modularización\Modularización\bin\Debug\net8.0\Modularización.runtimeconfig.json
+C:\Users\Tereta\Documents\Universidad\Programación I\Modul\Modularización\Modularización\bin\Debug\net8.0\Modularización.dll
+C:\Users\Tereta\Documents\Universidad\Programación I\Modul\Modularización\Modularización\bin\Debug\net8.0\Modularización.pdb
+C:\Users\Tereta\Documents\Universidad\Programación I\Modul\Modularización\Modularización\obj\Debug\net8.0\Modularización.dll
+C:\Users\Tereta\Documents\Universidad\Programación I\Modul\Modularización\Modularización\obj\Debug\net8.0\refint\Modularización.dll
+C:\Users\Tereta\Documents\Universidad\Programación I\Modul\Modularización\Modularización\obj\Debug\net8.0\Modularización.pdb
+C:\Users\Tereta\Documents\Universidad\Programación I\Modul\Modularización\Modularización\obj\Debug\net8.0\Modularización.genruntimeconfig.cache
+C:\Users\Tereta\Documents\Universidad\Programación I\Modul\Modularización\Modularización\obj\Debug\net8.0\ref\Modularización.dll
